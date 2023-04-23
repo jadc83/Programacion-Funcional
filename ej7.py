@@ -8,5 +8,3 @@ Se pide:
 a) Escribir su especificación.
 b) Implementar una función recursiva que satisfaga dicha especificación.
 """
-
-par_positivo = lambda numero:
